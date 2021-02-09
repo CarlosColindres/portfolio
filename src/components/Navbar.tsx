@@ -75,7 +75,7 @@ const Navbar = () => {
             {/* <div className='w-10 h-10 bg-bgColor shadow-md flex justify-center items-center text-darkGreen hover:text-darkGray hover:bg-lightGreen cursor-pointer rounded-md'>
               <i className='fab fa-linkedin-in text-xl'></i>
             </div> */}
-             <div className='w-10 h-10 bg-white shadow-md flex justify-center items-center bg-bgColor text-darkGreen hover:text-darkGray hover:bg-lightGreen cursor-pointer ml-4 rounded-md'>
+             <div className='w-10 h-10 bg-white shadow-md flex justify-center items-center bg-bgColor text-darkGreen hover:text-darkGray hover:bg-lightGreen cursor-pointer rounded-md'>
                 <a
                   href='https://github.com/CarlosColindres?tab=repositories'
                   target='_blank'
